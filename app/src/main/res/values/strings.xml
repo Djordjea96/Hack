@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gde mi je auto</string>
+    <string name="subtitle">Zapamti gde si parkirao i lako se vrati nazad</string>
+    <string name="note_hint">Beleška (npr. nivo 2, kod stuba B)</string>
+    <string name="save_button">Zapamti gde sam parkirao</string>
+    <string name="navigate_button">Vodi me do auta</string>
+    <string name="last_saved_title">POSLEDNJE SAČUVANO</string>
+    <string name="no_saved_location">Još nema sačuvane lokacije.\nPritisni dugme iznad kada parkiraš.</string>
+    <string name="getting_location">Tražim lokaciju…</string>
+    <string name="permission_needed">Potrebna je dozvola za lokaciju da bih zapamtio gde si parkirao.</string>
+    <string name="location_failed">Nije uspelo dobijanje lokacije. Proveri da li je GPS uključen i pokušaj napolju.</string>
+    <string name="saved_ok">Lokacija sačuvana! 🚗</string>
+    <string name="no_maps">Nije pronađena aplikacija za mape.</string>
+</resources>
